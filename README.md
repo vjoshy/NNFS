@@ -33,7 +33,7 @@ The notebooks in this repository demonstrate the implementation of neural networ
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone "https://github.com/vjoshy/NNFS.git"
 
 # Install required packages
 pip install numpy matplotlib torch torchvision pandas opencv-python
